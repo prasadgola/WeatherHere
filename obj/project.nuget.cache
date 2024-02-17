@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wb7F4YOSz1eK2ZZN4c0BhY+7akISrMST3vHEaTzdgZJqJ1X2FdJNhzpVWGaGi+25ChyVEbspJxib6AU3856I8A==",
+  "success": true,
+  "projectFilePath": "/Users/basavaprasadgola/Codes/dotnet/WeatherHere/WeatherHere.csproj",
+  "expectedPackageFiles": [
+    "/Users/basavaprasadgola/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
